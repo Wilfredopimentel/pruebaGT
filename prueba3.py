@@ -1,2 +1,3 @@
 saludo= "hola"
-print(saludo)
+suma = 2
+print(saludo, suma)
