@@ -1,2 +1,2 @@
 name= "Catalina"
-print (name)
+print(name)
