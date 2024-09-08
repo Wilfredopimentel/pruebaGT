@@ -1,2 +1,2 @@
-name= "Catalina cuatro patas lana"
+name= "Catalina cuatro patas lana sinca"
 print(name)
